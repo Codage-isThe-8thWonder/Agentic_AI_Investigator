@@ -1,0 +1,28 @@
+{
+  "document_id": "the_sign_of_four",
+  "source_file": "the sign of four.pdf",
+  "total_pdf_pages": 322,
+  "novel_start_page": 17,
+  "novel_end_page": 316,
+  "retained_pages": 293,
+  "total_chunks": 181,
+  "chapter_map": {
+    "1": 17,
+    "2": 38,
+    "3": 51,
+    "4": 63,
+    "5": 88,
+    "6": 106,
+    "7": 129,
+    "8": 159,
+    "9": 182,
+    "10": 209,
+    "11": 233,
+    "12": 247
+  },
+  "chunk_configuration": {
+    "target_size": 1600,
+    "max_size": 2000,
+    "min_size": 500
+  }
+}

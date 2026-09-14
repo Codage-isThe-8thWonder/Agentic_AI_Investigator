@@ -1,5 +1,5 @@
-from bm25_retriever import BM25Retriever
-from semantic_retriever import SemanticRetriever
+from backend.retrieval.bm25_retriever import BM25Retriever
+from backend.retrieval.semantic_retriever import SemanticRetriever
 
 
 class HybridRetriever:

@@ -1,0 +1,11 @@
+google-genai
+python-dotenv
+pydantic
+rank-bm25
+sentence-transformers
+numpy
+pymupdf
+networkx
+fastapi
+uvicorn
+streamlit

@@ -1,0 +1,510 @@
+{
+  "nodes": [
+    {
+      "id": "question_1",
+      "node_type": "question",
+      "label": "Who killed Bartholomew Sholto?"
+    },
+    {
+      "id": "claim_investigator",
+      "node_type": "claim",
+      "label": "Bartholomew Sholto was killed by Jonathan Small's associate (companion) using poison, but the name of this associate is not provided in the current evidence.",
+      "status": "unverified"
+    },
+    {
+      "id": "sof_0083",
+      "node_type": "evidence",
+      "label": "sof_0083",
+      "chunk_id": "sof_0083",
+      "document_id": "the_sign_of_four",
+      "chapter_number": null,
+      "chapter_heading": "CHAPTER VII.",
+      "pdf_pages": [
+        151,
+        153
+      ],
+      "text": "?the criminal. Do you follow all this \" Very clearly.\" \" Now, what could Jonathati Small do ? He could only Continue to keep a secret watch upon the efforts made to find the treasure. Possibly he leaves England and\n\n132 THE SIGN OF FOUR. only comes back at intervals. Then comes the discovery of the garret, and he is instantly informed of it. We again trace the presence of some confederate in the household. Jonathan, with his wooden leg, is utterly unable to reach the lofty room of Bartholomew Sholto. He takes with him, however, a rather curious associate, who gets over this difficulty, but dips his naked foot into creosote, whence come Toby, and a sixmile limp for a half-pay officer with a damaged tendo Achillis.\" \" But it was the associate, and not Jonathan, who committed the crime.\" \" Quite so. And rather to Jonathan's disgust, to judge by the way he stamped about when he got into the room. He bore no grudge against Bartholomew Sholto, and would have preferred if he could have been simply bound and gagged. He did not wish to put his head in a halter. There was no\n\n!\n\nTHE EPISODE OF THE BARREL. 1 33\n\nhelp for it, however : the savage instincts of his companion had broken out, and the poison had done its work: so Jonathan Small\n\nleft his record, lowered the treasure-box to the ground, and followed it himself. That was the train of events as far as I can decipher them. Of course, as to his personal appearance he must be middle-aged, and must be sunburned after serving his time in such an oven as the Andamans. His height",
+      "evidence_status": "verified",
+      "retrieval_source": "hybrid",
+      "relevance_score": 0.031754032258064516
+    },
+    {
+      "id": "sof_0034",
+      "node_type": "evidence",
+      "label": "sof_0034",
+      "chunk_id": "sof_0034",
+      "document_id": "the_sign_of_four",
+      "chapter_number": null,
+      "chapter_heading": "CHAPTER IV.",
+      "pdf_pages": [
+        70,
+        72
+      ],
+      "text": "possible.\" \"At the best, it must take some time,\" he answered ; \" for we shall certainly have to go to Norwood and see Brother Bartholomew. We shall all go and try if we can get the better of Brother Bartholomew. He is very angry with me for taking the course which has seemed right to me. I had quite high words with him last night. You cannot imagine what a terrible fellow he is when he is angry.\" \" If we are to go to Norwood, it would perhaps be as well to start at once,\" J ventured to remark. He laughed until his ears were quite red. \" That would hardly do,\" he cried. \" I don't know what he would say if I brought\n\nTHE STORY OF THE BALD-HEADED MAN. 55\n\nyou in that sudden way. No, I must prepare you by showing you how we all\n\nstand to each other. In the first place, I must tell you that there are several points in the story of which I am myself ignorant. I can only lay the facts before you as far as I know them myself.\n\n\" My father was, as you may have guessed, Major John Sholto, once of the Indian Army, He retired some eleven years ago, and came to live at Pondicherry Lodge, in Upper Norwood. He had prospered in India, and brought back with him a considerable sum of money, a large collection of valuable curiosities, and a staff of native servants. With these advantages he bought himself a house, and lived in great luxury. My twin-brother Bartholomew and I were the only children. \" I very well remember the sensation which was caused by the disappearance of\n\nS6 THE SIGN OF FOUR.",
+      "evidence_status": "verified",
+      "retrieval_source": "hybrid",
+      "relevance_score": 0.03125763125763126
+    },
+    {
+      "id": "sof_0176",
+      "node_type": "evidence",
+      "label": "sof_0176",
+      "chunk_id": "sof_0176",
+      "document_id": "the_sign_of_four",
+      "chapter_number": null,
+      "chapter_heading": "CHAPTER XII.",
+      "pdf_pages": [
+        305,
+        306
+      ],
+      "text": "STRANGE STORY OF JONATHAN SMALL. 2^^\n\nand there we drifted about the world, something always turning up to keep us from London. All the time, however, I never ]ost sight of my purpose. I would dream of Sholto at night. A hundred times I have killed him in my sleep. At last, however, some three or four years ago, we found ourselves in England. I had no great difficulty in finding where Sholto lived, and I set to work to discover whether he had realized the treasure, or if he still had it. I made friends with someone who could help me-- name no names, for I don't want to get anyI soon found that heone else in a hole--and still had the jewels. Then I tried to get at him in many ways ; but he was pretty sly, and had always two prize-fighters, besides his sons and his khitmutgar, on guard over him. I got word that he \"One day, however, was dying. I hurried at once to the garden, clutchesmad that he should slip out of my\n\n278 THE SIGN OF FOUR.",
+      "evidence_status": "verified",
+      "retrieval_source": "hybrid",
+      "relevance_score": 0.031099324975891997
+    },
+    {
+      "id": "sof_0094",
+      "node_type": "evidence",
+      "label": "sof_0094",
+      "chunk_id": "sof_0094",
+      "document_id": "the_sign_of_four",
+      "chapter_number": null,
+      "chapter_heading": "CHAPTER VIII.",
+      "pdf_pages": [
+        170
+      ],
+      "text": "the successive excitements of the night. I was limp and weary, befogged in mind and fatigued in body. I had not the professional enthusiasm which carried my companion on, nor could I look at the matter as a mere abstract intellectual problem. As far as the death of Bartholomew Sholto went, I had heard little good of him, and could feel no intense antipathy to his murderers. The treasure, however, was a different matter.\n\nThat, or part of it, belonged rightfully to Miss Morstan. While there was a chance of recovering it I was ready to devote my life to the one object. True, if I found it, it would probably put her for ever beyond my reach. Yet it would be a petty and selfish love which would be influenced by such a thought as that. If Holmes could work to find the criminals, I had a tenfold stronger reason to urge me on to find the treasure. A bath at Baker Street and a complete",
+      "evidence_status": "verified",
+      "retrieval_source": "hybrid",
+      "relevance_score": 0.030679156908665108
+    },
+    {
+      "id": "sof_0032",
+      "node_type": "evidence",
+      "label": "sof_0032",
+      "chunk_id": "sof_0032",
+      "document_id": "the_sign_of_four",
+      "chapter_number": null,
+      "chapter_heading": "CHAPTER IV.",
+      "pdf_pages": [
+        66,
+        68
+      ],
+      "text": "reference to so delicate a matter. Miss Morstan sat down, and her face grew white\n\nto the lips.\n\nTHE STORY OF THE BALD-HEADED MAN 5 \" I knew in my heart that he was dead,\"\n\nsaid she.\n\n\" I can give you every information,\" said he ; \" and 'what is more, I can do you justice ; and I will, too, whatever Brother Bartholomew may say. I am so glad to have your friends here, not only as an escort to you, but also as witnesses to what I am about to do and say. The three of us can show a bold front to Brother Bartholomew. But let us have no police or officials. outsiders--no We can settle everything satisfactorily among ourselves, without any interference. Nothing would annoy Brother Bartholomew more than any publicity.\" He sat down upon a low settee, and blinked at us inquiringly with his weak,\n\nwatery blue eyes \" For my part,\" said Holmes, \" whatever you may choose to say will go no farther.\" I nodded to show my agreement.\n\n52 THE SIGN OF FOUR.\n\n\"That Is well! That is well!\" said he. \"May I offer you a glass of Chianti, Miss Morstan ? Or of Tokay ? I keep no other wines. Shall I open a flask ? No ? Well, then, I trust that you have no objection to tobacco smoke, to the balsamic odour of the Eastern tobacco. I am a little nervous, and I find my hookah an invaluable sedative.\" He applied a taper to the great bowl, and the smoke bubbled merrily through the rosewater. We sat all three in a semi-circle, with our heads advanced and our chins upon our\n\nhands, while the strange, jerky little fellow,\n\nwith his high, shining head, puffed uneasily",
+      "evidence_status": "verified",
+      "retrieval_source": "hybrid",
+      "relevance_score": 0.03021353930031804
+    },
+    {
+      "id": "sof_0042",
+      "node_type": "evidence",
+      "label": "sof_0042",
+      "chunk_id": "sof_0042",
+      "document_id": "the_sign_of_four",
+      "chapter_number": null,
+      "chapter_heading": "CHAPTER IV.",
+      "pdf_pages": [
+        82,
+        83
+      ],
+      "text": "might never feel destitute.\" \"It was a kindly thought,\" said our companion, earnestly ; \"it was extremely good\n\nof you.\" The little man waved his hand depre-\n\ncatingly. \"We were your trustees,\" he said; \"that was the view which I took of it, though brother Bartholomew could not altogether see it in that light. We had plenty of money ourselves. I desired no more. Besides, it would have been such bad taste to have treated a young lady in so scurvy a fashion.\n\n' Le mauvais gout mene au crime.' Th^ French have a very neat way of putting these things. Our difference of opinion on this subject went so far that I thought it best to set up rooms for myself; so I left Pondicherry Lodge, taking the old khitmutgar and Williams with me. Yesterday, however, I\n\nTHE STORY OF THE BALD-HEADED MAN. 67\n\nlearn that an event of extreme importance has occurred. The treasure has been discovered. I instantly communicated with Miss Morstan, and it only remains for us to drive out to Norwood and demand our share. I explained my views last night to brother Bartholomew, so we shall be expected, if not\n\nwelcome, visitors.\" Mr. Thaddeus Sholto ceased, and sat twitching on his luxurious settee. We all remained silent, with our thoughts upon the new development ^ which the mysterious business had taken. Holmes was the first",
+      "evidence_status": "unverified",
+      "retrieval_source": "hybrid",
+      "relevance_score": 0.02900988017658188
+    },
+    {
+      "id": "sof_0140",
+      "node_type": "evidence",
+      "label": "sof_0140",
+      "chunk_id": "sof_0140",
+      "document_id": "the_sign_of_four",
+      "chapter_number": null,
+      "chapter_heading": "CHAPTER XII.",
+      "pdf_pages": [
+        247,
+        249
+      ],
+      "text": "THE STRANGE STORY OF JONATHAN SMALL.\n\nA VERY patient man was that inspector in the cab, for it was a weary time before I rejoined him. His face clouded over when I showed him the empty box. \" There goes the reward ! \" said he, gloomily. \" Where there is no money there is no pay. This night's work would have been worth a tenner each to Sam Brown and me if the treasure had been there.\" \" Mr. Thaddeus Sholto is a rich man,\" I said ; \"he will see that you are rewarded,\n\ntreasure or no.' The inspector shook his head despondently, however\n\n224 THE SIGN OF FOUR.\n\n\" It's a bad job,\" he repeated ; \"and so Mr. Athelney Jones will think.\" His forecast proved to be correct, for the detective looked blank enough when I got to Baker Street and showed him the emptybox. They had only just arrived. Holmes, the prisoner, and he, for they had changed\n\ntheir plans so far as to report themselves at a station upon the way. My companion lounged in his arm-chair with his usual\n\nlistless expression, while Small sat stolidly opposite to him with his wooden leg cocked over his sound one. As I exhibited the empty box he leaned back in his chair and laughed aloud. \" This is your doing, Small,\" said Athelney\n\nJones, angrily. \" Yes, I have put it away where you shall never lay hand on it,\" he cried, exultantly. \" It is my treasure, and if I can't have the loot I'll take darned good care that no one\n\nSTRANGE STORY OF JONATHAN SMALL. 225",
+      "evidence_status": "verified",
+      "retrieval_source": "hybrid",
+      "relevance_score": 0.029850746268656716
+    },
+    {
+      "id": "sof_0049",
+      "node_type": "evidence",
+      "label": "sof_0049",
+      "chunk_id": "sof_0049",
+      "document_id": "the_sign_of_four",
+      "chapter_number": null,
+      "chapter_heading": "CHAPTER V.",
+      "pdf_pages": [
+        92,
+        94
+      ],
+      "text": "\" I cannot understand it,\" he said. \" There must be some mistake. I distinctly told Bartholomew that we should be here, and yet there is no light in his window. I do not know what to make of it.\" \" Does he always guard the premises m this way ? \" asked Holmes. \" Yes, he has followed my father's custom. He was the favourite son, you know, and I sometimes think that my father may have told him more than he ever told me. That\n\nTHE TRAGEDY OF PONDICHERRY LODGE. 77\n\nis Bartholomew's window up there where the moonshine strikes. It is quite bright,\n\nbut there is no light from within, I think.\" \" None,\" said Holmes. \" But I see the glint of a light in that little window beside\n\nthe door.\" \"Ah, that is the housekeeper's room. That is where old Mrs. Bernstone sits. She can tell us all about it. But perhaps you would not mind waiting here for a minute or two, for if we all go in together, and she has had no word of our coming, she may be alarmed. But, hush ! what is\n\nthat?\" He held up the lantern, and his hand shook until the circles of light flickered and wavered all round us. Miss Morstan seized my wrist, and we all stood, with thumping hearts, straining our ears. From the great black house there sounded through the silent night the saddest and most pitiful of sounds\n\n;8 THE SIGN OF FOUR. whimpering of a-- the shrill, broken frightened woman. \" It is Mrs. Bernstone,\" said Sholto. \" She is the only woman in the house. Wait here. I shall be back in a moment.\"",
+      "evidence_status": "unverified",
+      "retrieval_source": "hybrid",
+      "relevance_score": 0.029273504273504274
+    },
+    {
+      "id": "sof_0082",
+      "node_type": "evidence",
+      "label": "sof_0082",
+      "chunk_id": "sof_0082",
+      "document_id": "the_sign_of_four",
+      "chapter_number": null,
+      "chapter_heading": "CHAPTER VII.",
+      "pdf_pages": [
+        150,
+        151
+      ],
+      "text": "\"Well, now, let us put ourselves in the place of Jonathan Small. Let us look at it from his point of view. He comes to England v/ith the double idea of regaining what he would consider to be his rights, and of having his revenge upon the man who had wronged him. He found out where Sholto lived, and very possibly he established communications with someone inside the house. There is this butler, Lai Rao, whom we have not seen. Mrs. Bernstone gives him far from a good character. Small could not find out, however, where the treasure was hid, for no one ever knew, save the major and one faithful servant who had died. Suddenly, Small learns that the major is on his death-bed. In a frenzy lest the secret of the treasure die with him, he runs the gauntlet of the guards, makes his way to the dying man's window, and is only deterred from entering by the presence of his two\n\nTHE EPISODE OF THE BARREL. 131 sons. Mad with hate, however, against the dead man, he enters the room that night, searches his private papers in the hope of discovering some memorandum relating to the treasure, and finally leaves a memento of his visit in the short inscription upon the card. He had doubtless planned beforehand that, should he slay the major, he would leave some such record upon the body as a sign that it was not a common murder, but, from the point of view of the four associates, something in the nature of an act of justice. Whimsical and bizarre conceits of this kind are common enough in the annals of crime, and usually afford valuable indications as to",
+      "evidence_status": "verified",
+      "retrieval_source": "hybrid",
+      "relevance_score": 0.02878726010616578
+    },
+    {
+      "id": "sof_0104",
+      "node_type": "evidence",
+      "label": "sof_0104",
+      "chunk_id": "sof_0104",
+      "document_id": "the_sign_of_four",
+      "chapter_number": null,
+      "chapter_heading": "CHAPTER IX.",
+      "pdf_pages": [
+        186,
+        188
+      ],
+      "text": "interest. \"It is for Mr. Thaddeus Sholto that I am anxious,\" she said. \" Nothing else is of any consequence ; but I think that he has behaved most kindly and honourably throughout. It is our duty to clear him of this dreadful and unfounded charge.\" It was evening before I left Camberwell, and quite dark by the time I reached home. My companion's book and pipe lay by his chair, but he had disappeared. I looked about in the hope of seeing a note, but there was none. \" I suppose that Mr. Slierlock Holmes has gone out ? \" I said to Mrs. Hudson as she came up to lower the blinds. \" No, sir. He has gone to his room, sir. Do you know, sir,\" sinking her voice into an impressive whisper, \"I am afraid for his \" health ?\n\nA BREAK IN THE CHAIN. 167\n\n\" Why SO, Mrs. Hudson ? \" \" Well, he's that strange, sir. After you was gone he walked and he walked, up and down, and up and down, until I was Weary of the sound of his footstep^ Then I heard him talking to himself and muttering, and evefy time the bell rang out he Came on the\n\n'stair-head, with What is that, Mrs. Hudson ? ' And now he has slammed off to his room, but I can hear him walking away the same as ever. I hope he's not going to be ill, sif. I ventured to say something to him about cooling medicine, but he turned on me, sir, with such a look that I don't know how ever I got out of the room.\" \" I don't think that you have any cause to be uneasy, Mrs. Hudson,\" I answered.. \" I have seen him like this before. He hasi some small matter upon his mind which makes him restless.\" I tried to speak lightly to our worthy\n\n;",
+      "evidence_status": "verified",
+      "retrieval_source": "hybrid",
+      "relevance_score": 0.028577260665441927
+    },
+    {
+      "id": "sof_0054",
+      "node_type": "evidence",
+      "label": "sof_0054",
+      "chunk_id": "sof_0054",
+      "document_id": "the_sign_of_four",
+      "chapter_number": null,
+      "chapter_heading": "CHAPTER V.",
+      "pdf_pages": [
+        100,
+        102
+      ],
+      "text": "face to that of our little friend that I looked round at him to make sure that he was indeed with us. Then I recalled to mind that he had mentioned to us that his brother and he were twins. \"This is terrible!\" I said to Holmes. \" What is to be done ? '\n\nTHE TRAGEDY OF PONDICHERRY LODGE. 85\n\n\" The door must come down,\" he answered, and, springing against it, he put all his weight upon the lock. It creaked and groaned, but did not yield. Together we flung ourselves upon it once more, and this time it gave way with a sudden snap, and we found ourselves within Bartholomew Sholto's chamber. It appeared to have been fitted up as a chemical laboratory. A double line of glassstoppered bottles was drawn up upon the wall opposite the door, and the table was littered over with Bunsen burners, test-tubes, and\n\nretorts. In the corners stood carboys of acid in wicker baskets. One of these appeared to leak or to have been broken, for a stream of dark-coloured liquid had trickled out from it, and the air was heavy with a peculiarly pungent, tar-like odour. A set of steps stood at one side of the room, in the midst of a litter of lath and plaster, and above them\n\n86 THE SIGN OF FOUR.\n\nthere was an opening in the ceiling large enough for a man to pass through. At the foot of the steps a long coil of rope was\n\nthrown carelessly together. By the table, in a wooden arm-chair, the 'master of the house was seated all in a heap, with his head sunk upon his left shoulder, and that ghastly, inscrutable smile upon his face. He was stiff and cold, and had clearly been dead many hours. It seemed to me",
+      "evidence_status": "verified",
+      "retrieval_source": "hybrid",
+      "relevance_score": 0.028083267871170464
+    },
+    {
+      "id": "sof_0116",
+      "node_type": "evidence",
+      "label": "sof_0116",
+      "chunk_id": "sof_0116",
+      "document_id": "the_sign_of_four",
+      "chapter_number": null,
+      "chapter_heading": "CHAPTER IX.",
+      "pdf_pages": [
+        207,
+        208
+      ],
+      "text": "after the official investigation.\" \"Certainly. That is easily managed. One other point. I should much like to have a few details about this matter from the lips of Jonathan Small himself^ You know I like to work the details of my cases out. There is no objection to my having an unofficial interview with him, either here in my rooms or elsewhere, as long as he is efficiently guarded ? \" \" Well, you are master of the situation.- I have had no proof yet of the existence of this Jonathan Small. However, if you can catch him, I don't see how I can refuse you an interview with him.\" \"That is understood, then.?\" \" \" Perfectly. Is there anything else ?\n\n1 86 THE SIGN OF FOUR.\n\n\" Only that I insisf upon your dining with us. It will be ready in Jialf an hour. I have oysters and a brace of grouse, with\n\nsomething a little choice in white wines. Watson, you have never ypt recognised n^y\n\nmerits as a housekeeper.\"",
+      "evidence_status": "verified",
+      "retrieval_source": "hybrid",
+      "relevance_score": 0.030679156908665108
+    },
+    {
+      "id": "sof_0100",
+      "node_type": "evidence",
+      "label": "sof_0100",
+      "chunk_id": "sof_0100",
+      "document_id": "the_sign_of_four",
+      "chapter_number": null,
+      "chapter_heading": "CHAPTER VIII.",
+      "pdf_pages": [
+        179,
+        180
+      ],
+      "text": "' Thecottonwoods . Ah, here we are ! aborigines of the Andaman Islands may perhaps claim the distinction of being the smallest race upon this earth, though some anthropologists prefer the Bushmen of Africa, the Digger Indians of America, and the Terra del Fuegians. The average height is rather below four feet, although many fullgrown adults may be found who are very much smaller than this. They are a fierce, morose, and intractable people, though capable of forming most devoted friendships when their confidence has once been gained.' Mark that, Watson. Now, then, listen to this. ' They are naturally hideous, having large, misshapen heads, small, fierce eyes, and\n\nl6o THE SIGN OF FOUR.\n\ndistorted features. Their feet and hands, however, are remarkably small. So intractable and fierce are they, that all the efforts of the British officials have failed to win them over in any degree. They have always been a terror to shipwrecked crews, braining\n\nthe survivors with their stone-headed clubs, or shooting them with their poisoned arrows. These massacres are invariably concluded by a cannibal feast.' Nice, amiable people, Watson ! If this fellow had been left to his own unaided devices, this affair might have taken an even more ghastly turn. I fancy that, even as it is, Jonathan Small would give a good deal not to have employed him.\" \" But how came he to have so singular a companion ? \" \" Ah, that is more than I can tell. Since, however, we had already determined that Small had come from the Andamans, it is not so very wonderful that this islander",
+      "evidence_status": "verified",
+      "retrieval_source": "hybrid",
+      "relevance_score": 0.02976190476190476
+    },
+    {
+      "id": "sof_0022",
+      "node_type": "evidence",
+      "label": "sof_0022",
+      "chunk_id": "sof_0022",
+      "document_id": "the_sign_of_four",
+      "chapter_number": null,
+      "chapter_heading": "CHAPTER III.",
+      "pdf_pages": [
+        51,
+        53
+      ],
+      "text": "IN QUEST OF A SOLUTION.\n\nIt was half-past five before Holmes returned. He was bright, eager, and in excellent spirits, a mood which in his case alternated with fits\n\nof the blackest depression. \" There is no great mystery in this matter,\" he said, taking the cup of tea which I had poured out for him ; \" the facts appear to admit of only one explanation.\" \" What ! you have solved it already ? \" \" Well, that would be too much to say. I have discovered a suggestive fact, that is all. It is, however, very suggestive. The details are still to be added. I have just found, on consulting the back files of the Times, that\n\n36 THE SIGN OF FOUR.\n\nMajor Sholto, of Upper Norwood, late of the 34th Bombay Infantry, died upon the 28th of April, 1882.\"\n\nI fail \" I may be very obtuse, Holmes, but to see what this suggests.\"\n\nit in \" No ? You surprise me. Look at this way, then. Captain Morstan disappears. The only person in London whom he could have visited is Major Sholto. Major Sholto denies having heard that he was in London. Four years later Sholto dies. Within a week of his death Captain Morstan's daughter receives a valuable present, which is repeated from year to year, and now culminates in a letter which describes her as a wronged woman. What wrong can it refer to except this deprivation of her father ? And why should the presents begin immediately after Sholto's death, unless it is that Sholto's heir knows something of the mystery and desires to make compensation ? Have you any\n\nIN QUEST OF A SOLUTION. 37\n\nalternative theory which will meet the",
+      "evidence_status": "unverified",
+      "retrieval_source": "hybrid",
+      "relevance_score": 0.031054405392392875
+    },
+    {
+      "id": "claim_factcheck_1",
+      "node_type": "claim",
+      "label": "Bartholomew Sholto was killed by Jonathan Small's associate (companion) using poison.",
+      "status": "supported"
+    },
+    {
+      "id": "claim_factcheck_2",
+      "node_type": "claim",
+      "label": "The specific name of Jonathan Small's associate who killed Bartholomew Sholto is missing from the provided evidence.",
+      "status": "supported"
+    },
+    {
+      "id": "entity_bartholomew_sholto",
+      "node_type": "person",
+      "label": "Bartholomew Sholto"
+    },
+    {
+      "id": "entity_tonga",
+      "node_type": "person",
+      "label": "Tonga"
+    },
+    {
+      "id": "entity_jonathan_small",
+      "node_type": "person",
+      "label": "Jonathan Small"
+    }
+  ],
+  "edges": [
+    {
+      "source": "question_1",
+      "target": "claim_investigator",
+      "relation": "investigated",
+      "stage": "investigator"
+    },
+    {
+      "source": "question_1",
+      "target": "sof_0083",
+      "relation": "evidence_for"
+    },
+    {
+      "source": "question_1",
+      "target": "sof_0034",
+      "relation": "evidence_for"
+    },
+    {
+      "source": "question_1",
+      "target": "sof_0176",
+      "relation": "evidence_for"
+    },
+    {
+      "source": "question_1",
+      "target": "sof_0094",
+      "relation": "evidence_for"
+    },
+    {
+      "source": "question_1",
+      "target": "sof_0032",
+      "relation": "evidence_for"
+    },
+    {
+      "source": "question_1",
+      "target": "sof_0042",
+      "relation": "evidence_for"
+    },
+    {
+      "source": "question_1",
+      "target": "sof_0140",
+      "relation": "evidence_for"
+    },
+    {
+      "source": "question_1",
+      "target": "sof_0049",
+      "relation": "evidence_for"
+    },
+    {
+      "source": "question_1",
+      "target": "sof_0082",
+      "relation": "evidence_for"
+    },
+    {
+      "source": "question_1",
+      "target": "sof_0104",
+      "relation": "evidence_for"
+    },
+    {
+      "source": "question_1",
+      "target": "sof_0054",
+      "relation": "evidence_for"
+    },
+    {
+      "source": "question_1",
+      "target": "sof_0116",
+      "relation": "evidence_for"
+    },
+    {
+      "source": "question_1",
+      "target": "sof_0100",
+      "relation": "evidence_for"
+    },
+    {
+      "source": "question_1",
+      "target": "sof_0022",
+      "relation": "evidence_for"
+    },
+    {
+      "source": "question_1",
+      "target": "claim_factcheck_1",
+      "relation": "investigated",
+      "stage": "fact_checker"
+    },
+    {
+      "source": "question_1",
+      "target": "claim_factcheck_2",
+      "relation": "investigated",
+      "stage": "fact_checker"
+    },
+    {
+      "source": "sof_0083",
+      "target": "claim_investigator",
+      "relation": "supports",
+      "stage": "investigator"
+    },
+    {
+      "source": "sof_0083",
+      "target": "claim_factcheck_1",
+      "relation": "supports",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "source": "sof_0083",
+      "target": "claim_factcheck_2",
+      "relation": "supports",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "source": "sof_0083",
+      "target": "entity_tonga",
+      "relation": "identifies"
+    },
+    {
+      "source": "sof_0034",
+      "target": "claim_factcheck_2",
+      "relation": "supports",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "source": "sof_0034",
+      "target": "entity_tonga",
+      "relation": "identifies"
+    },
+    {
+      "source": "sof_0176",
+      "target": "claim_factcheck_2",
+      "relation": "supports",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "source": "sof_0176",
+      "target": "entity_tonga",
+      "relation": "identifies"
+    },
+    {
+      "source": "sof_0094",
+      "target": "claim_factcheck_2",
+      "relation": "supports",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "source": "sof_0094",
+      "target": "entity_tonga",
+      "relation": "identifies"
+    },
+    {
+      "source": "sof_0032",
+      "target": "claim_factcheck_2",
+      "relation": "supports",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "source": "sof_0032",
+      "target": "entity_tonga",
+      "relation": "identifies"
+    },
+    {
+      "source": "sof_0140",
+      "target": "claim_factcheck_2",
+      "relation": "supports",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "source": "sof_0140",
+      "target": "entity_tonga",
+      "relation": "identifies"
+    },
+    {
+      "source": "sof_0082",
+      "target": "claim_factcheck_2",
+      "relation": "supports",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "source": "sof_0082",
+      "target": "entity_tonga",
+      "relation": "identifies"
+    },
+    {
+      "source": "sof_0104",
+      "target": "claim_factcheck_2",
+      "relation": "supports",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "source": "sof_0104",
+      "target": "entity_tonga",
+      "relation": "identifies"
+    },
+    {
+      "source": "sof_0054",
+      "target": "claim_factcheck_2",
+      "relation": "supports",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "source": "sof_0054",
+      "target": "entity_tonga",
+      "relation": "identifies"
+    },
+    {
+      "source": "sof_0116",
+      "target": "claim_factcheck_2",
+      "relation": "supports",
+      "verification_status": "SUPPORTED"
+    },
+    {
+      "source": "sof_0116",
+      "target": "entity_tonga",
+      "relation": "identifies"
+    },
+    {
+      "source": "sof_0100",
+      "target": "entity_tonga",
+      "relation": "identifies"
+    },
+    {
+      "source": "entity_tonga",
+      "target": "entity_bartholomew_sholto",
+      "relation": "killed",
+      "origin": "final_verdict"
+    },
+    {
+      "source": "entity_tonga",
+      "target": "entity_jonathan_small",
+      "relation": "associate_of",
+      "origin": "final_verdict"
+    }
+  ],
+  "node_count": 21,
+  "edge_count": 42
+}
