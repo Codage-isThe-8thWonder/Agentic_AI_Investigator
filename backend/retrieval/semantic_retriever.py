@@ -92,7 +92,8 @@ class SemanticRetriever:
         )
 
         self.model = SentenceTransformer(
-            model_name
+            model_name,
+            device="cpu"
         )
 
         # Normalize embeddings
