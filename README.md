@@ -16,6 +16,8 @@ Frontend: https://agenticaiinvestigator-fpzuyxwxwo93bhdwpugxnj.streamlit.app/
 
 Backend: https://agentic-ai-investigator-backend.onrender.com/docs
 
+Demo video drive link: https://drive.google.com/drive/folders/1D1Vbkgi5PCM1Vee_PYxg6rxsIkNEGqMV?usp=sharing
+
 ### Deployment Note
 
 The backend is deployed on Render and basic APIs like health, corpus and candidates are working. However, the complete investigation API currently gives a 502 error on the Render free tier because of its limited CPU and 512 MB memory. The semantic retrieval model and complete agent pipeline require more runtime resources. The complete pipeline has been tested locally, but paid deployment was not used, so the public deployment is partially limited by the free-tier resources.
